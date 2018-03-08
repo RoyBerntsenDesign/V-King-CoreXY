@@ -2,6 +2,7 @@ Slicer Recomendations
 
 Walls:      0.5 line with, 0.2-0.3 layer height
 Bottom/Top: 1.5 mm shell
+Infill 20-30%
 
 You do need a good calibrated extruder as parts are tight so check your flow. All parts are modeled with tolerance to fit
 
