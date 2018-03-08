@@ -6,6 +6,6 @@ Infill 20-30%
 
 You do need a good calibrated extruder as parts are tight so check your flow. All parts are modeled with tolerance to fit
 
-I reccomend using 0.1 mm horizontal expansion for better tolerance on small horizontal holes
+I reccomend using NEGATIVE -0.1 mm horizontal expansion for better tolerance on small horizontal holes
 
 Support touching buidlplate is needed on some parts - Check screendumps in folder
