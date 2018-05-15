@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 'C:/Users/roy/OneDrive/Document Library/GitHub/V-King/Source Files/End
 Stop X Stop.step',
-/* time_stamp */ '2018-05-07T10:33:10+02:00',
+/* time_stamp */ '2018-05-15T08:13:02+02:00',
 /* author */ ('roy@asteri.no'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v17',
@@ -26,7 +26,7 @@ DATA;
 #10=MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION('',(#13),#852);
 #11=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#859,#12);
 #12=ADVANCED_BREP_SHAPE_REPRESENTATION('',(#14),#851);
-#13=STYLED_ITEM('',(#868),#14);
+#13=STYLED_ITEM('',(#869),#14);
 #14=MANIFOLD_SOLID_BREP('EndStop X Stop',#518);
 #15=CYLINDRICAL_SURFACE('',#557,2.6);
 #16=CYLINDRICAL_SURFACE('',#559,2.6);
@@ -933,12 +933,25 @@ SI_UNIT($,.RADIAN.)
 'Core Data for Automotive Mechanical Design Process');
 #866=PRODUCT_CONTEXT('part definition',#865,'mechanical');
 #867=PRODUCT('EndStop X Stop','EndStop X Stop v6','EndStop X Stop',(#866));
-#868=PRESENTATION_STYLE_ASSIGNMENT((#869));
-#869=SURFACE_STYLE_USAGE(.BOTH.,#870);
-#870=SURFACE_SIDE_STYLE('',(#871));
-#871=SURFACE_STYLE_FILL_AREA(#872);
-#872=FILL_AREA_STYLE('V-King Blue',(#873));
-#873=FILL_AREA_STYLE_COLOUR('V-King Blue',#874);
-#874=COLOUR_RGB('V-King Blue',0.141176470588235,0.815686274509804,1.);
+#868=PRESENTATION_STYLE_ASSIGNMENT((#870));
+#869=PRESENTATION_STYLE_ASSIGNMENT((#871));
+#870=SURFACE_STYLE_USAGE(.BOTH.,#872);
+#871=SURFACE_STYLE_USAGE(.BOTH.,#873);
+#872=SURFACE_SIDE_STYLE('',(#874));
+#873=SURFACE_SIDE_STYLE('',(#875));
+#874=SURFACE_STYLE_FILL_AREA(#876);
+#875=SURFACE_STYLE_FILL_AREA(#877);
+#876=FILL_AREA_STYLE('V-King Blue',(#878));
+#877=FILL_AREA_STYLE(
+'{"label":"Unknown","meta":"EA46307F-1FD6-4B11-9C97-353B74F5E413","met
+aName":"VisualMaterialValueMetaType","extra":""}',(#879));
+#878=FILL_AREA_STYLE_COLOUR('V-King Blue',#880);
+#879=FILL_AREA_STYLE_COLOUR(
+'{"label":"Unknown","meta":"EA46307F-1FD6-4B11-9C97-353B74F5E413","met
+aName":"VisualMaterialValueMetaType","extra":""}',#881);
+#880=COLOUR_RGB('V-King Blue',0.141176470588235,0.815686274509804,1.);
+#881=COLOUR_RGB(
+'{"label":"Unknown","meta":"EA46307F-1FD6-4B11-9C97-353B74F5E413","met
+aName":"VisualMaterialValueMetaType","extra":""}',0.,0.,0.);
 ENDSEC;
 END-ISO-10303-21;
