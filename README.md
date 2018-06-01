@@ -9,6 +9,8 @@ I would appreciate if you buy me a coffe to keep the pace going in this project:
 
 You can be a supporter of the develompent on patreon here: https://www.patreon.com/pro3d 
 
+Here is a video covering the basics and benefits of this design: https://youtu.be/wINF7qM0DQU
+
 All files are released according to the following license unless specified differently in the file or directory:
 CC-by-NC: http://creativecommons.org/licenses/by-nc/3.0/
 
