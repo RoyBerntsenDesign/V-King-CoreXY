@@ -1,9 +1,15 @@
-A360 Links to assemblies
+Links to assemblies and animations
+
+Support the development here with a coffee:
+https://www.buymeacoffee.com/pro3d
 
 Base Frame with Z Carriers: https://a360.co/2MzJzb5
 Base Frame Video: https://youtu.be/te2cc0WHEG0
 
 XY Gantry: https://a360.co/2JKIb7U
 XY Gantry Video: https://youtu.be/Fz4fGAGifM0
+
+Y-Carrier: https://a360.co/2IkHaxW
+Y-Carrier Video: https://youtu.be/lzPE4xHXU7k
 
 X-Carrier: https://a360.co/2MzJzb5
