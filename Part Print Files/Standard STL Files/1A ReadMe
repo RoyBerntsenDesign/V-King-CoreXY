@@ -1,12 +1,10 @@
 Slicer Recomendations
-Material: PLA OR PETG - Personally I used PLA on most parts as they are more rigid and give better tolerance
+Material: PETG or similar as is more durable than PLA
 
 Walls:      3 perimeters with 0.5 line width
 Bottom/Top: 1.5 mm shell at 0.2-0.3 layer height
-Infill:		30%
+Infill:		30% - 100%
 
 You do need a good calibrated extruder as parts are tight so check your flow. All parts are modeled with tolerance to fit
 
 Support touching buidlplate is needed on some parts - Check screendumps in folder
-
-X Slider has built in support wall - needs option: Print thin walls in slicer
