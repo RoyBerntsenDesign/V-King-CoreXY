@@ -1,10 +1,11 @@
 Slicer Recomendations
 Material: PETG or similar as is more durable than PLA
 
-Walls:      3 perimeters with 0.5 line width
+Walls:      1.5 mm Shell
 Bottom/Top: 1.5 mm shell at 0.2-0.3 layer height
-Infill:		30% - 100%
+Infill:		Corresponding PNG will indicate infill by post_fix
 
-You do need a good calibrated extruder as parts are tight so check your flow. All parts are modeled with tolerance to fit
+You do need a good calibrated extruder as parts are tight so check your flow
+All parts are modeled with tolerance to fit
 
-Support touching buidlplate is needed on some parts - Check screendumps in folder
+Support is needed on some parts - Check png in folder
