@@ -3,7 +3,7 @@ Material: PETG or similar as is more durable than PLA
 
 Walls:      1.5 mm Shell
 Bottom/Top: 1.5 mm shell at 0.2-0.3 layer height
-Infill:		Corresponding PNG will indicate infill by post_fix
+Infill:		25%
 
 You do need a good calibrated extruder as parts are tight so check your flow
 All parts are modeled with tolerance to fit
