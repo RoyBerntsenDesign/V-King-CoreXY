@@ -13,7 +13,6 @@ Community links:
 https://www.facebook.com/vking3d/
 https://www.facebook.com/groups/viking3d/
 
-
 Here is a video covering the basics and benefits of this design: https://youtu.be/wINF7qM0DQU
 
 All files are released according to the following license unless specified differently in the file or directory:
