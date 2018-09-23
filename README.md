@@ -9,10 +9,8 @@ I would appreciate if you buy me a coffe to keep the pace going in this project:
 
 You can be a supporter of the develompent on patreon here: https://www.patreon.com/pro3d
 
-Community links:
-
-https://www.facebook.com/vking3d/
-
+Community links: 
+https://www.facebook.com/vking3d/ 
 https://www.facebook.com/groups/viking3d/
 
 Here is a video covering the basics and benefits of this design: https://youtu.be/wINF7qM0DQU
