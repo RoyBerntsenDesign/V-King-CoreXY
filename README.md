@@ -7,7 +7,11 @@ I would appreciate if you buy me a coffe to keep the pace going in this project:
 
 <a href="https://www.buymeacoffee.com/pro3d" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-You can be a supporter of the develompent on patreon here: https://www.patreon.com/pro3d 
+You can be a supporter of the develompent on patreon here: https://www.patreon.com/pro3d
+
+Community links:
+https://www.facebook.com/vking3d/
+https://www.facebook.com/groups/viking3d/
 
 Here is a video covering the basics and benefits of this design: https://youtu.be/wINF7qM0DQU
 
