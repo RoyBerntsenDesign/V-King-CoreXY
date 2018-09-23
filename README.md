@@ -18,4 +18,4 @@ Here is a video covering the basics and benefits of this design: https://youtu.b
 All files are released according to the following license unless specified differently in the file or directory:
 CC-by-NC: http://creativecommons.org/licenses/by-nc/3.0/
 
-Roy Berntsen Research and Development
+Roy Berntsen - Research and Development
