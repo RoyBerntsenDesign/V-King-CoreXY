@@ -380,9 +380,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // V-King With e3d V6
-  #define  DEFAULT_Kp 18
-  #define  DEFAULT_Ki 1.3
-  #define  DEFAULT_Kd 62
+  #define  DEFAULT_Kp 15
+  #define  DEFAULT_Ki 1.25
+  #define  DEFAULT_Kd 70
 
 #endif // PIDTEMP
 
@@ -445,7 +445,7 @@
  * Note: For Bowden Extruders make this large enough to allow load/unload.
  */
 #define PREVENT_LENGTHY_EXTRUDE
-#define EXTRUDE_MAXLENGTH 200
+#define EXTRUDE_MAXLENGTH 500
 
 //===========================================================================
 //======================== Thermal Runaway Protection =======================
@@ -642,7 +642,7 @@
  *
  * See https://github.com/synthetos/TinyG/wiki/Jerk-Controlled-Motion-Explained
  */
-#define S_CURVE_ACCELERATION
+//#define S_CURVE_ACCELERATION
 
 //===========================================================================
 //============================= Z Probe Options =============================
