@@ -380,9 +380,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // V-King With e3d V6
-  #define  DEFAULT_Kp 17
-  #define  DEFAULT_Ki 1.3
-  #define  DEFAULT_Kd 65
+  #define  DEFAULT_Kp 10
+  #define  DEFAULT_Ki 1.5
+  #define  DEFAULT_Kd 20
 
 #endif // PIDTEMP
 
