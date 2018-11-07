@@ -834,7 +834,7 @@
 // Invert the stepper direction. Change (or reverse the motor connector) if an axis goes the wrong way.
 #define INVERT_X_DIR false
 #define INVERT_Y_DIR true
-#define INVERT_Z_DIR false
+#define INVERT_Z_DIR true
 
 // @section extruder
 
@@ -1071,12 +1071,12 @@
  * Override if the automatically selected points are inadequate.
  */
 #if ENABLED(AUTO_BED_LEVELING_3POINT) || ENABLED(AUTO_BED_LEVELING_UBL)
-  //#define PROBE_PT_1_X 5
-  //#define PROBE_PT_1_Y 30
-  //#define PROBE_PT_2_X 5
-  //#define PROBE_PT_2_Y 350
-  //#define PROBE_PT_3_X 170
-  //#define PROBE_PT_3_Y 190
+  #define PROBE_PT_1_X 30
+  #define PROBE_PT_1_Y 30
+  #define PROBE_PT_2_X 30
+  #define PROBE_PT_2_Y 350
+  #define PROBE_PT_3_X 330
+  #define PROBE_PT_3_Y 190
 #endif
 
 /**
