@@ -380,9 +380,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // V-King With e3d V6
-  #define  DEFAULT_Kp 10
+  #define  DEFAULT_Kp 15
   #define  DEFAULT_Ki 1.5
-  #define  DEFAULT_Kd 20
+  #define  DEFAULT_Kd 40
 
 #endif // PIDTEMP
 
@@ -536,11 +536,11 @@
  */
 #define X_DRIVER_TYPE  TMC2208_STANDALONE
 #define Y_DRIVER_TYPE  TMC2208_STANDALONE
-//#define Z_DRIVER_TYPE  DRV8825
+//#define Z_DRIVER_TYPE  A4988
 //#define X2_DRIVER_TYPE A4988
 //#define Y2_DRIVER_TYPE A4988
 //#define Z2_DRIVER_TYPE A4988
-//#define E0_DRIVER_TYPE DRV8825
+//#define E0_DRIVER_TYPE A4988
 //#define E1_DRIVER_TYPE A4988
 //#define E2_DRIVER_TYPE A4988
 //#define E3_DRIVER_TYPE A4988
