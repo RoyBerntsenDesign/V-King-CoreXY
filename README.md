@@ -1,7 +1,12 @@
 # V-King Pro 3d Printer
 The non rod CoreXY V-Slot 3d Printer by Roy Berntsen
 
-In this repository you will find the print files, source files and documentation for the V-King 3D printer. If you are missing a part or information of feel free to file an issue on github
+In this repository you will find the print files and documentation for the V-King 3D printer
+
+Here is a link to the Fusion 360 3d Model for viewing and also download:
+https://a360.co/2CB8TuF 
+
+If you are missing a part or information of feel free to file an issue on github
 
 I would appreciate if you buy me a coffe to keep the pace going in this project:
 
